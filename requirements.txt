@@ -1,0 +1,15 @@
+torch
+torchvision
+numpy
+opencv-python
+transformers
+diffusers>=0.20.0
+xformers
+ultralytics
+timm
+sklearn
+einops
+pandas
+tqdm
+Pillow
+requests

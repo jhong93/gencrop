@@ -1,0 +1,4 @@
+dist
+build
+rod_align_api*
+**/*.o

@@ -1,0 +1,9 @@
+data/*/images.json
+data/*/train.json
+data/*/val.json
+data/*/test.json
+data/*/outpaint
+__pycache__/
+**/__pycache__/
+yolov8x-seg.pt
+work_dir/

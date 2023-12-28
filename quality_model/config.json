@@ -1,0 +1,14 @@
+{
+  "arch": "resnet50",
+  "dim": 128,
+  "batch_size": 64,
+  "num_epochs": 100,
+  "weight": [
+    1.0,
+    10.0
+  ],
+  "classes": {
+    "good": 0,
+    "bad": 1
+  }
+}
